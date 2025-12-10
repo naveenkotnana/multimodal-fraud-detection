@@ -1,0 +1,8 @@
+TransactionAmt
+amount_log
+device_nulls
+mouse_x_mean
+mouse_x_std
+mouse_y_mean
+mouse_y_std
+mouse_events
