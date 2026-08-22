@@ -1,14 +1,8 @@
 # Context-Aware AI Decision Automation System
 
-[
-[
-[
-[
-[
+Enterprise-grade AI decision automation platform** that analyzes customer requests using advanced NLP, ML classification, and rule-based orchestration to deliver urgency scoring and next-best-actions at scale. Production-ready for high-volume enterprise environments like PalTech's healthcare claims processing and agentic AI workflows.
 
-**Enterprise-grade AI decision automation platform** that analyzes customer requests using advanced NLP, ML classification, and rule-based orchestration to deliver urgency scoring and next-best-actions at scale. Production-ready for high-volume enterprise environments like PalTech's healthcare claims processing and agentic AI workflows.
-
-## 🎯 Business Problem
+🎯 Business Problem
 
 **Enterprise Challenge**: Processing 50K+ daily customer interactions across siloed systems with:
 - 72hr manual triage delays
@@ -103,7 +97,7 @@ curl -X POST "http://api:8000/predict" \
   -d '{"text": "urgent payment issue", "customer_type": "premium"}'
 ```
 
-## 🔍 PalTech Production Alignment
+
 
 **Direct Match** with PalTech Hyderabad projects:
 ```
@@ -174,10 +168,9 @@ Phase 4: Production → SOC2 + Multi-region (90 days)
 ```
 
 ## 👨‍💻 Author
-**Naveen Kotnana** | BTech CS '25 | AI/ML Specialist  
-**Open to PalTech Hyderabad AI/ML Roles**  
+**Naveen Kotnana** | BTech IT '25 | AI/ML Specialist  
 [LinkedIn](https://linkedin.com/in/naveenkotnana) | [Portfolio](naveenkotnana.github.io)
 
-***
 
-**Production-ready. PalTech-aligned. Hire-ready.** 🚀
+
+
